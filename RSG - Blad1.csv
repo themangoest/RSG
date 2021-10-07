@@ -1,0 +1,34 @@
+RSG,,,
+Back BOM,,,
+Amount,Designators,Part Type,Properties
+1,,Header 4,package molex-1x4_lock; variant polar_lock
+1,,Generic female header - 5 pins,"package THT; hole size 1.0mm,0.508mm; row single; form ♀ (female); pins 5; pin spacing 0.1in (2.54mm)"
+2,"c1, c2",Electrolytic Capacitor,"package 100 mil [THT, electrolytic]; capacitance 10µF; voltage 6.3V"
+2,"c3, c6",Ceramic Capacitor,"package 0603 [SMD, multilayer]; capacitance 100nF; voltage 6.3V"
+2,"c4, c5",Ceramic Capacitor,"package 0603 [SMD, multilayer]; capacitance 220pF; voltage 6.3V"
+1,d1,Schottky Diode,package 300 mil [THT]; type Schottky; part # 1N5817
+6,"d2, d3, d4, d5, d6, d7",Schottky Diode,package 300 mil [THT]; type Schottky; part # BAT43
+2,,Generic female header - 1 pins,"package THT; hole size 1.0mm,0.508mm; row single; form ♀ (female); pins 1; pin spacing 0.1in (2.54mm); part # 5mm LED"
+1,ic1,Voltage Regulator LM1117,package sot223; features LDO; current 150mA; voltage adjustable; chip LM1117; variant sot223
+1,MCP4911,DIP - 8 pins,"package DIP (Dual Inline) [THT]; hole size 1.0mm,0.508mm; true; chip label IC; pins 8; pin spacing 300mil; part # MCP4911"
+1,,Generic female header - 1 pins,"package THT; hole size 1.0mm,0.508mm; row single; form ♀ (female); pins 1; pin spacing 0.1in (2.54mm); part # MAIN WIPER"
+1,,Schematic Frame,sheet 1/1; descr Pseudo random generative sequencer; rev 1; project Generative sequencer; filename gen seq 4U.fzz; date 1629230040
+5,"r1, r2, r3, r4, r7",470 Ω Resistor,package 0603 [SMD]; tolerance ±5%; resistance 470Ω
+1,r5,100k Ω Resistor,package 0603 [SMD]; tolerance ±5%; resistance 100kΩ
+1,r6,10k Ω Resistor,package 0603 [SMD]; tolerance ±5%; resistance 10kΩ
+1,r8,22k Ω Resistor,package 0603 [SMD]; tolerance ±5%; resistance 22kΩ
+1,,Generic female header - 3 pins,"package THT; hole size 1.0mm,0.508mm; row single; form ♀ (female); pins 3; pin spacing 0.1in (2.54mm)"
+1,,Generic female header - 1 pins,"package THT; hole size 1.0mm,0.508mm; row single; form ♀ (female); pins 1; pin spacing 0.1in (2.54mm); part # SUB WIPER"
+1,,Arduino Nano (Rev3.0),type Arduino Nano (3.0); part # ATMEGA328P
+,,,
+Front BOM,,,
+Amount,Designators,Part Type,Properties
+9,,Generic female header - 1 pins,"package THT; hole size 1.0mm,0.508mm; row single; form ♀ (female); pins 1; pin spacing 0.1in (2.54mm)"
+2,LED,Red LED - 5mm,package 5 mm [THT]; leg yes; color Red (633nm)
+2,,Generic female header - 1 pins,"package THT; hole size 1.0mm,0.508mm; row single; form ♀ (female); pins 1; pin spacing 0.1in (2.54mm); part # 5mm LED"
+1,,Generic female header - 1 pins,"package THT; hole size 1.0mm,0.508mm; row single; form ♀ (female); pins 1; pin spacing 0.1in (2.54mm); part # MAIN WIPER"
+2,,Rotary Potentiometer (Small),package THT; size Rotary - 9mm; track Linear; type Rotary Shaft Potentiometer; maximum resistance 100kΩ
+1,,Schematic Frame,sheet 1/1; descr Pseudo random generative sequencer; rev 1; project Generative sequencer; filename gen seq 4U.fzz; date 1629230040
+1,,Toggle Switch,package THT; switching circuit SPDT
+1,,Generic female header - 1 pins,"package THT; hole size 1.0mm,0.508mm; row single; form ♀ (female); pins 1; pin spacing 0.1in (2.54mm); part # SUB WIPER"
+1,,ToggleSW_Blue1,variant variant 4
