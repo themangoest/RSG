@@ -9,7 +9,7 @@ Amount,Designators,Part Type,Properties
 1,d1,Schottky Diode,package 300 mil [THT]; type Schottky; part # 1N5817
 6,"d2, d3, d4, d5, d6, d7",Schottky Diode,package 300 mil [THT]; type Schottky; part # BAT43
 2,,Generic female header - 1 pins,"package THT; hole size 1.0mm,0.508mm; row single; form ♀ (female); pins 1; pin spacing 0.1in (2.54mm); part # 5mm LED"
-1,ic1,Voltage Regulator LM1117,package sot223; features LDO; current 150mA; voltage adjustable; chip LM1117; variant sot223
+1,ic1,Voltage Regulator LM1117 5v,package sot223; features LDO; current 150mA; voltage adjustable; chip LM1117; variant sot223
 1,MCP4911,DIP - 8 pins,"package DIP (Dual Inline) [THT]; hole size 1.0mm,0.508mm; true; chip label IC; pins 8; pin spacing 300mil; part # MCP4911"
 1,,Generic female header - 1 pins,"package THT; hole size 1.0mm,0.508mm; row single; form ♀ (female); pins 1; pin spacing 0.1in (2.54mm); part # MAIN WIPER"
 1,,Schematic Frame,sheet 1/1; descr Pseudo random generative sequencer; rev 1; project Generative sequencer; filename gen seq 4U.fzz; date 1629230040
