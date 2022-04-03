@@ -14,3 +14,6 @@ Also, phrase repetition can be set from 1 to 8.
 The phrase can also be set by repeating one type or repeating two types alternately.
 
 Inspired by Hagiwo, Turing Machine and Emilie Gillet
+
+DEMO VIDEO
+https://youtu.be/H6q5EoStZ58
